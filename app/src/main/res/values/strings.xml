@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProductDataDesignPattern</string>
+    <string name="add_to_favorite">Add to Favorite</string>
+    <string name="delete_movie">Delete Movie</string>
+    <string name="get_all_product">Get all Product</string>
+    <string name="get_fav_product">Get fav Product</string>
+    <string name="exit">Exit</string>
+    <string name="empty">Empty</string>
+
+</resources>
